@@ -1,6 +1,4 @@
-# Oiii! Eu sou a Mariana Leite 👋  
 
----
 
 <div align="center">
   <a href="https://github.com/marianacoleite">
@@ -9,10 +7,11 @@
   </a>
 </div>
 
+---
 
 ### 🚀 Tecnologias que uso  
 
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="TS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -23,13 +22,4 @@
 </div>
 
 ---
-
-<div align="center">
-  <img alt="Gif de avatar" src="https://i.pinimg.com/originals/21/bc/0d/21bc0d2ccfcae308d8e26b52880d5e69.gif" height="150" style="border-radius:50px;">
-</div>
-
----
-
-
-
 
