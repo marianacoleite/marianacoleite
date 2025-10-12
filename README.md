@@ -1,17 +1,15 @@
-## Olá! Eu sou a Mariana Leite 😄
-
-
+## Olá! Eu sou a Mariana Leite 👋  
 
 ---
 
-### 📊 Minhas estatísticas no GitHub
+### 📊 Minhas estatísticas no GitHub  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marianacoleite&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianacoleite&layout=compact&theme=radical)
 
 ---
 
-### 🚀 Tecnologias que uso
+### 🚀 Tecnologias que uso  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
@@ -23,5 +21,8 @@
 </div>
 
 ---
+
+
+
 
 
