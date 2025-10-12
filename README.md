@@ -9,7 +9,6 @@
   </a>
 </div>
 
----
 
 ### 🚀 Tecnologias que uso  
 
@@ -24,8 +23,6 @@
 </div>
 
 ---
-  
----
 
 <div align="center">
   <img alt="Gif de avatar" src="https://i.pinimg.com/originals/21/bc/0d/21bc0d2ccfcae308d8e26b52880d5e69.gif" height="150" style="border-radius:50px;">
@@ -33,6 +30,6 @@
 
 ---
 
-![Snake animation](https://github.com/marianacoleite/marianacoleite/blob/output/github-contribution-grid-snake.svg)
+
 
 
