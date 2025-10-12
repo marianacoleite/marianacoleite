@@ -1,13 +1,10 @@
 ## Olá! Eu sou a Mariana Leite 👋  
 
----
-
 ### 📊 Minhas estatísticas no GitHub  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marianacoleite&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianacoleite&layout=compact&theme=radical)
 
----
 
 ### 🚀 Tecnologias que uso  
 
@@ -20,7 +17,7 @@
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
----
+
 
 
 
