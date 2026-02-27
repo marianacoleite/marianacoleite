@@ -1,41 +1,50 @@
 <div align="center">
+  
+# 🌸 MARIANA LEITE
 
-# Mariana Coleite
-
-*Dev backend de coração, mas já de olho no full stack. Aprendendo todo dia, um commit de cada vez.*
-
-</div>
-
----
-
-## 🖤 Frontend
-
-![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-000000?style=flat-square&logo=tailwindcss&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-000000?style=flat-square&logo=vuejs&logoColor=white)
-
-## ⚙️ Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodejs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white)
-
-## 🛠 Ferramentas
-
-![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=aws&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/marianacoleite)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/marianacoleite)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mariana@email.com)
 
 ---
 
-## 📊 Estatísticas
+## 👩‍💻 sobre mim
+
+**desenvolvedora backend • aspirante full stack**
+
+dev backend de coração, mas já de olho no full stack.  
+aprendendo todo dia, um commit de cada vez. ✨
+
+---
+
+## 🧸 tecnologias & ferramentas
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=marianacoleite&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&border_color=333333&count_private=true" height="150"/>
+### ⚙️ backend
+`☕ java` `🍃 spring` `🚀 spring boot` `🐍 python` `🎸 django` `🟢 node.js` `⚡ express.js` `🔌 api rest` `🔐 jwt`
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=marianacoleite&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=666666&border=333333" height="150"/>
+### 🗄️ bancos de dados
+`🐬 mysql` `🐘 postgresql` `🍃 mongodb` `📁 sqlite` `🔥 redis`
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianacoleite&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=aaaaaa&border_color=333333" height="150"/>
+### 🎨 frontend
+`🌐 html5` `🎨 css3` `📜 javascript` `📘 typescript` `⚛️ react` `🅱️ bootstrap` `🌊 tailwind`
+
+### ☁️ devops & nuvem
+`🐳 docker` `☸️ kubernetes` `☁️ aws` `📦 git` `🤖 github actions` `🐧 linux` `📮 postman` `🧪 insomnia`
 
 </div>
 
 ---
 
+## 📊 gráfico de atividades
+
 <div align="center">
-  <sub>⟡ marianacoleite · GitHub Profile ⟡</sub>
-</div>
+  
+### 💾 commits • repositórios
+  
+<img src="https://quickchart.io/chart?c={type:'doughnut',data:{datasets:[{data:[85,15],backgroundColor:['#FF6B9D','#FFD93D'],borderWidth:0}],labels:['commits (1.2k)','outros']},options:{cutout:'65%',plugins:{legend:{display:false},tooltip:{enabled:false}},elements:{arc:{borderWidth:0}}}}" width="180" height="180">
+
+<img src="https://quickchart.io/chart?c={type:'doughnut',data:{datasets:[{data:[70,30],backgroundColor:['#6BCB77','#4D96FF'],borderWidth:0}],labels:['repositórios (25)','contribuições']},options:{cutout:'65%',plugins:{legend:{display:false},tooltip:{enabled:false}},elements:{arc:{borderWidth:0}}}}" width="180" height="180">
+
+### 📈 métricas rápidas
