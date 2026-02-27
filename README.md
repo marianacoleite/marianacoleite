@@ -1,50 +1,66 @@
 <div align="center">
-  
-# 🌸 MARIANA LEITE
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/marianacoleite)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/marianacoleite)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mariana@email.com)
+# MARIANA LEITE
 
----
-
-## 👩‍💻 sobre mim
-
-**desenvolvedora backend • aspirante full stack**
-
-dev backend de coração, mas já de olho no full stack.  
-aprendendo todo dia, um commit de cada vez. ✨
-
----
-
-## 🧸 tecnologias & ferramentas
-
-<div align="center">
-
-### ⚙️ backend
-`☕ java` `🍃 spring` `🚀 spring boot` `🐍 python` `🎸 django` `🟢 node.js` `⚡ express.js` `🔌 api rest` `🔐 jwt`
-
-### 🗄️ bancos de dados
-`🐬 mysql` `🐘 postgresql` `🍃 mongodb` `📁 sqlite` `🔥 redis`
-
-### 🎨 frontend
-`🌐 html5` `🎨 css3` `📜 javascript` `📘 typescript` `⚛️ react` `🅱️ bootstrap` `🌊 tailwind`
-
-### ☁️ devops & nuvem
-`🐳 docker` `☸️ kubernetes` `☁️ aws` `📦 git` `🤖 github actions` `🐧 linux` `📮 postman` `🧪 insomnia`
 
 </div>
 
 ---
 
-## 📊 gráfico de atividades
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="20"/> Sobre Mim
+
+Desenvolvedora Backend • Aspirante Full Stack • Resolvedora de Problemas  
+
+Sou apaixonada por tecnologia e por criar soluções eficientes que resolvem problemas reais.  
+Atualmente focada no desenvolvimento backend, mas sempre explorando novas tecnologias para evoluir como desenvolvedora full stack.
+
+---
+
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/code/code-original.svg" width="20"/> Tecnologias & Ferramentas
 
 <div align="center">
-  
-### 💾 commits • repositórios
-  
-<img src="https://quickchart.io/chart?c={type:'doughnut',data:{datasets:[{data:[85,15],backgroundColor:['#FF6B9D','#FFD93D'],borderWidth:0}],labels:['commits (1.2k)','outros']},options:{cutout:'65%',plugins:{legend:{display:false},tooltip:{enabled:false}},elements:{arc:{borderWidth:0}}}}" width="180" height="180">
 
-<img src="https://quickchart.io/chart?c={type:'doughnut',data:{datasets:[{data:[70,30],backgroundColor:['#6BCB77','#4D96FF'],borderWidth:0}],labels:['repositórios (25)','contribuições']},options:{cutout:'65%',plugins:{legend:{display:false},tooltip:{enabled:false}},elements:{arc:{borderWidth:0}}}}" width="180" height="180">
+### Backend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
 
-### 📈 métricas rápidas
+### Frontend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+
+### DevOps & Ferramentas
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+
+</div>
+
+---
+
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/> Estatísticas do GitHub
+
+<div align="center">
+  <a href="https://github.com/marianaleite">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marianaleite&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianaleite&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
+
+---
+
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/> Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+|----------|------------|--------------|
+| [API de Gestão de Tarefas](https://github.com/marianaleite/api-tarefas) | API completa para gerenciamento de tarefas com autenticação JWT | Java, Spring Boot, PostgreSQL |
+| [E-commerce Backend](https://github.com/marianaleite/ecommerce-backend) | Backend para plataforma de e-commerce com carrinho de compras | Node.js, Express, MongoDB |
+| [Sistema de Autenticação](https://github.com/marianaleite/auth-system) | Sistema de autenticação com diferentes níveis de acesso | Python, Flask, JWT |
+
+---
+
