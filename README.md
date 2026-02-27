@@ -1,52 +1,41 @@
-<h1 align="center">Mariana Leite</h1>
+<div align="center">
 
-<p align="center">
-Desenvolvedora Backend • Aspirante Full Stack 
-</p>
+# Mariana Coleite
 
-<p align="center">
-<a href="https://marianacoleite.dev">Portfólio</a> •
-<a href="https://linkedin.com/in/marianacoleite">LinkedIn</a> •
-<a href="mailto:mariana@email.com">Email</a>
-</p>
+*Dev backend de coração, mas já de olho no full stack. Aprendendo todo dia, um commit de cada vez.*
+
+</div>
 
 ---
 
-## Sobre
+## 🖤 Frontend
 
-Dev backend de coração, mas já de olho no full stack. Aprendendo todo dia, um commit de cada vez.
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-000000?style=flat-square&logo=tailwindcss&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-000000?style=flat-square&logo=vuejs&logoColor=white)
 
----
+## ⚙️ Backend
 
-## Stack Principal
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodejs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white)
 
-### Backend
-JavaScript • Spring • Spring Boot • Python  • Node.js • Express • REST • JWT  • C++
+## 🛠 Ferramentas
 
-### Bancos de Dados
-MySQL • PostgreSQL • MongoDB • SQLite • Redis  
-
-### Frontend
-HTML • CSS • JavaScript • TypeScript • React • Bootstrap • Tailwind  
-
-### DevOps & Cloud
-AWS • Git • GitHub Actions • Linux • Postman • Insomnia • Swagger 
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=aws&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
 
 ---
 
-## Estatísticas
+## 📊 Estatísticas
 
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=marianacoleite&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianacoleite&layout=donut&theme=default"/>
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=marianacoleite&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&border_color=333333&count_private=true" height="150"/>
 
-## Métricas e Atividade
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=marianacoleite&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=666666&border=333333" height="150"/>
 
-<p align="center">
-<img src="https://metrics.lecoq.io/marianacoleite?template=classic&base.indepth=false&base.hireable=false&isocalendar=0&languages=1&stars=0&activity=1&people=0&achievements=0&notable=0&discussions=0&repositories=1&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages.limit=8&languages.threshold=0%2525&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%252C%2520programming&languages.recent.categories=markup%252C%2520programming&languages.recent.load=300&languages.recent.days=14&repositories.featured=API-tarefas%252C%2520ecommerce-backend%252C%2520auth-system&config.timezone=America%252FSao_Paulo"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianacoleite&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=aaaaaa&border_color=333333" height="150"/>
+
+</div>
 
 ---
+
+<div align="center">
+  <sub>⟡ marianacoleite · GitHub Profile ⟡</sub>
+</div>
