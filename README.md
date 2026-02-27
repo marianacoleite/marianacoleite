@@ -10,9 +10,9 @@
 
 ## 👩‍💻 Sobre Mim
 
-**Desenvolvedora Backend • Aspirante Full Stack • Resolvedora de Problemas**
+**Desenvolvedora Backend • Aspirante Full Stack**
+Dev backend de coração, mas já de olho no full stack. Aprendendo todo dia, um commit de cada vez.
 
-Sou apaixonada por tecnologia e por criar soluções eficientes que resolvem problemas reais. Atualmente focada no desenvolvimento backend, mas sempre explorando novas tecnologias para me tornar uma desenvolvedora full stack completa.
 
 ---
 
@@ -65,22 +65,7 @@ Sou apaixonada por tecnologia e por criar soluções eficientes que resolvem pro
 
 </div>
 
----
-
-## 🚀 Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| [**API de Gestão de Tarefas**](https://github.com/marianaleite/api-tarefas) | API completa para gerenciamento de tarefas com autenticação JWT | Java, Spring Boot, PostgreSQL |
-| [**E-commerce Backend**](https://github.com/marianaleite/ecommerce-backend) | Backend para plataforma de e-commerce com carrinho de compras | Node.js, Express, MongoDB |
-| [**Sistema de Autenticação**](https://github.com/marianaleite/auth-system) | Sistema de autenticação com diferentes níveis de acesso | Python, Flask, JWT |
-
----
-
-## 📫 Contato
-
-📧 **Email:** mariana.leite@email.com  
-💼 **LinkedIn:** [linkedin.com/in/marianaleite](https://linkedin.com/in/marianaleite)  
+--- 
 🌐 **Portfólio:** [marianaleite.dev](https://marianaleite.dev)
 
 ---
