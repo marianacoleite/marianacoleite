@@ -1,23 +1,19 @@
 <div style="
-  position: relative;
-  left: 50%;
-  right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
-  background-color: red;  /* fundo vermelho da “caixa grande” */
-  color: #fff;
-  padding: 50px 20px;
-  min-height: 100vh;
-  box-sizing: border-box;
+  background-color: #ffffff;  /* fundo geral branco do GitHub */
+  color: #333;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+  padding: 50px 20px;
 ">
 
   <div style="max-width: 900px; margin: auto;">
-    <h1 style="text-align: center; font-weight: 700; margin-bottom: 2rem;">
+
+    <!-- Título -->
+    <h1 style="text-align: center; font-weight: 700; margin-bottom: 2rem; color: #c10000;">
       Mariana Leite
     </h1>
-  
-    <section style="background-color: #c10000; padding: 25px 30px; border-radius: 12px; margin-bottom: 3rem; box-shadow: 0 4px 12px rgb(0 0 0 / 0.3);">
+
+    <!-- Sobre Mim -->
+    <section style="background-color: #c10000; padding: 25px 30px; border-radius: 12px; margin-bottom: 3rem; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); color: #fff;">
       <h2 style="font-weight: 600; margin-bottom: 1rem; border-bottom: 2px solid #880000; padding-bottom: 8px;">
         Sobre Mim
       </h2>
@@ -25,12 +21,13 @@
         Dev Backend de coração, mas já de olho no Full Stack. Aprendendo todo dia, um commit de cada vez.
       </p>
     </section>
-  
-    <section style="background-color: #c10000; padding: 25px 30px; border-radius: 12px; box-shadow: 0 4px 12px rgb(0 0 0 / 0.3);">
+
+    <!-- Tecnologias & Ferramentas -->
+    <section style="background-color: #c10000; padding: 25px 30px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); color: #fff;">
       <h2 style="font-weight: 600; margin-bottom: 2rem; border-bottom: 2px solid #880000; padding-bottom: 8px;">
         Tecnologias &amp; Ferramentas
       </h2>
-    
+
       <table style="width: 100%; border-collapse: collapse; table-layout: fixed; text-align: center; color: #fff;">
         <tbody>
           <tr>
@@ -59,7 +56,7 @@
           </tr>
         </tbody>
       </table>
+
     </section>
   </div>
-
 </div>
